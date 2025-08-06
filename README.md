@@ -57,7 +57,7 @@ I'm a passionate and detail-oriented **Frontend Developer** with a strong grip o
 
 📬 **Email:** [7867alihasnain@gmail.com](mailto:7867alihasnain@gmail.com)  
 🔗 **Portfolio:** [Visit My Work](https://alihasnain-engineer.github.io/PORTFOLIO-ALI-HASNAIN-2025/)  
-💼 **LinkedIn:** [Ali Hasnain](https://www.linkedin.com/in/your-username)  
+💼 **LinkedIn:** [Ali Hasnain]((https://www.linkedin.com/in/ali-hasnain7867/))  
 💻 **GitHub:** [alihasnain-engineer](https://github.com/alihasnain-engineer)
 
 ---
