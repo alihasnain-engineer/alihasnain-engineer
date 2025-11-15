@@ -3,6 +3,8 @@
 🎓 Software Engineering Student | 💻 Full-Stack Developer | 🌐 Shopify & WordPress Expert  
 📍 Okara, Punjab, Pakistan
 
+🔗 **Business Website:** [Visit My Business Website](https://techxsolve.site/)  
+
 ---
 
 ### 🚀 About Me
@@ -57,6 +59,7 @@ I'm a passionate and detail-oriented **Frontend Developer** with a strong grip o
 
 📬 **Email:** [7867alihasnain@gmail.com](mailto:7867alihasnain@gmail.com)  
 🔗 **Portfolio:** [Visit My Work](https://alihasnain-engineer.github.io/PORTFOLIO-ALI-HASNAIN-2025/)  
+🔗 **Business Website:** [Visit My Business Website](https://techxsolve.site/)  
 💼 **LinkedIn:** [Ali Hasnain](https://www.linkedin.com/in/ali-hasnain7867/)  
 💻 **GitHub:** [alihasnain-engineer](https://github.com/alihasnain-engineer)
 
